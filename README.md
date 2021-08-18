@@ -1,7 +1,7 @@
 # java_excercises
 
 ### Aula03
-Game: Jokenpo
+1. Game: Jokenpo
 > Faça um programa que permita jogar o jogo &quot;Pedra-Papel-Tesoura&quot;. Primeiro, o aplicativo
 solicita o nome de cada jogador e, em seguida, qual a opção esse jogador escolhe para
 jogar: pedra, papel ou tesoura. O jogo consiste em perguntar qual opção cada um escolhe
